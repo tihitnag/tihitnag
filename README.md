@@ -42,14 +42,13 @@ Hey there! I'm  a data enthusiast who's all about turning raw data into actionab
 
 ## Projects
 
-- [**Brain Tumor Classification**](https://github.com/tihitnag/brain_tumor_detection-using-vgg-_and_resnet50)  
+- [**OECD Population Analysis**](https://github.com/tihitnag/OECD-POPULATION)  
+  Designed and optimized a data pipeline for a time series forecasting project, improving data flow efficiency by 20%. Applied time series analysis to forecast trends in immigrant populations over time using **Python** and data analysis techniques.
+-  [**Brain Tumor Classification**](https://github.com/tihitnag/brain_tumor_detection-using-vgg-_and_resnet50)  
   Used deep learning models (VGG-16, Inception V3) to classify brain tumors with high accuracy.
 
 - [**Grocery Assistant**](https://github.com/tihitnag/grocery_assistant)  
   A Django-based app that recommends eco-friendly grocery products using data analysis.
-
-- [**OECD Population Analysis**](https://github.com/tihitnag/OECD-POPULATION)  
-  Designed and optimized a data pipeline for a time series forecasting project, improving data flow efficiency by 20%. Applied time series analysis to forecast trends in immigrant populations over time using **Python** and data analysis techniques.
 
 ## Let's Connect
 
